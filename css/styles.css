@@ -1,0 +1,92 @@
+* {
+    box-sizing: border-box;
+}
+
+/* Header, Logo, Navigation */
+.mart-container {
+    width: 100%;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+.mart-logo-container {
+
+}
+
+img.mart-logo {
+
+}
+
+.mart-nav-list {
+    list-style: none;
+}
+
+.mart-nav-list-link {
+    font-family: "Open Sans", "Arial", sans-serif;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 11px;
+
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+
+h2.section-title {
+    font-family: "Roboto", "Arial", sans-serif;
+    font-weight: 900;
+    font-size: 48px;
+    line-height: 32px;
+}
+
+/* Product section */
+.product-img {
+
+}
+    
+.product-name {
+    font-family: "Roboto", "Arial", sans-serif;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 32px;
+    text-transform: uppercase;
+    /* color: #ffffff; */
+}
+
+.product-price {
+    font-family: "Roboto", "Arial", sans-serif;
+    font-weight: 900;
+    font-size: 18px;
+    line-height: 32px;
+    text-transform: uppercase;
+}
+
+
+/* News section */
+.news-img {
+
+}
+
+.news-title {
+    font-family: "Open Sans", "Arial", sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 26px;
+
+}
+
+.news-description {
+    font-family: "Open Sans", "Arial", sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 26px;
+
+}
+
+.read-more-btn {
+    font-family: "Open Sans", "Arial", sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    line-height: 26px;
+}
+    
