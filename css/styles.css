@@ -5,10 +5,6 @@
     /* outline: 1px solid red; */
 }
 
-body {
-    margin-top: 36px;
-}
-
 .header {
     margin-bottom: 108px;
 }
@@ -93,6 +89,9 @@ h2.section-title::after {
 
 h2.product::after {
     margin-top: 32px;
+}
+
+h2.product {
     margin-bottom: 92px;
 }
 
@@ -162,18 +161,21 @@ h2.product::after {
 }
 
 .products-section {
-    margin-bottom: 106px;
+    padding-bottom: 106px;
 }
 
 
 /* News section */
 
 .news-section {
-    margin-bottom: 80px;
+    padding-bottom: 80px;
 }
 
 h2.news::after {
     margin-top: 32px;
+}
+
+h2.news {
     margin-bottom: 80px;
 }
 
